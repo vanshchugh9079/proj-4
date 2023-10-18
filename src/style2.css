@@ -1,0 +1,15 @@
+.temp-border{
+    border: 1px dashed red;
+}
+header{
+    height: 200px;
+}
+footer{
+    height:200px;
+}
+main{
+    height: 600px;
+}
+.v_row{
+    height: 600px;
+}
